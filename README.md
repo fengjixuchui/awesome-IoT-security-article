@@ -27,7 +27,11 @@
 
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
+- 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
+
 # 安全教程
+[About the book - A Noob's Guide To ARM Exploitation](https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/)
+
 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
 
 [使用Binary Ninja进行IoT设备漏洞挖掘](https://dawnslab.jd.com/binaryninja1-zh-cn/)
@@ -47,6 +51,10 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+https://xz.aliyun.com/
+
+[unSafe.sh - 不安全](https://unsafe.sh/)
+
 [talos](https://blog.talosintelligence.com/)
 
 [ssd-disclosure](https://ssd-disclosure.com/advisories-archive/)
@@ -77,6 +85,38 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Citrix CVE-2022-27518 漏洞分析](https://paper.seebug.org/2049/)
+
+[Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router | cq674350529's blog](https://cq674350529.github.io/2023/02/10/Analyzing-an-Old-Netatalk-dsi-writeinit-Buffer-Overflow-Vulnerability-in-NETGEAR-Router/)
+
+[Patch diff an old vulnerability in Synology NAS | cq674350529's blog](https://cq674350529.github.io/2023/01/06/Patch-diff-an-old-vulnerability-in-Synology-NAS)
+
+[Patch diff an old vulnerability in Synology NAS | cq674350529's blog](https://cq674350529.github.io/2023/01/06/Patch-diff-an-old-vulnerability-in-Synology-NAS)
+
+[Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router | cq674350529's blog](https://cq674350529.github.io/2023/02/10/Analyzing-an-Old-Netatalk-dsi-writeinit-Buffer-Overflow-Vulnerability-in-NETGEAR-Router/)
+
+[Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router | cq674350529's blog](https://cq674350529.github.io/2023/02/10/Analyzing-an-Old-Netatalk-dsi-writeinit-Buffer-Overflow-Vulnerability-in-NETGEAR-Router/)
+
+[Netgear Nighthawk r7000p upnpd Buffer Overflow Remote Code Execution Vulnerability](https://hdwsec.fr/blog/20230201-netgear/)
+
+[RCE in Avaya Aura Device Services – Assetnote](https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/)
+
+[CVE-2023-22374: F5 BIG-IP Format String Vulnerability | Rapid7 Blog](https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/)
+
+https://mp.weixin.qq.com/s/ie6ydNvxkFjJxmrpOTkcUA
+
+[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
+
+[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
+
+[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
+
+[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
+
+[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
+
+[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
+
 [Vulnerability Spotlight: Asus router access, information disclosure, denial of service vulnerabilities discovered](https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered)
 
 https://mp.weixin.qq.com/s/js8Pg9xmkqRm0A0TF7pVXQ
@@ -128,6 +168,8 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 智能家居漏洞分析
+https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
+
 https://mp.weixin.qq.com/s/WkXbI5lHM2LYnSCMuQAdbA
 
 https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
@@ -135,6 +177,12 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[IOTsec-Zoneç©èç½å®å¨ç¤¾åº](https://iotsec-zone.com/article?id=362)
+
+[CVE-2022-24942 Heap-based buffer overflow in Silicon Labs Gecko SDK](https://bugprove.com/knowledge-hub/cve-2022-24942-heap-based-buffer-overflow-in-silicon-labs-gecko-sdk/)
+
+[Researcher drops Lexmark RCE zero-day rather than sell vuln ‘for peanuts’ | The Daily Swig](https://portswigger.net/daily-swig/researcher-drops-lexmark-rce-zero-day-rather-than-sell-vuln-for-peanuts)
+
 [考勤机安全分析报告 - FreeBuf网络安全行业门户](https://www.freebuf.com/articles/paper/354674.html)
 
 https://github.com/blasty/lexmark
@@ -153,6 +201,12 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Firmware key extraction by gaining EL3 - The Cave](https://blog.xilokar.info/firmware-key-extraction-by-gaining-el3.html?s=09)
+
+[ Zeus WPI | Reverse engineering an e-ink display ](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/)
+
+[Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router | cq674350529's blog](https://cq674350529.github.io/2023/02/10/Analyzing-an-Old-Netatalk-dsi-writeinit-Buffer-Overflow-Vulnerability-in-NETGEAR-Router)
+
 [Dmitry.GR: Projects](https://dmitry.gr/?r=05.Projects)
 
 [Reverse Engineering BLE Devices — Reverse Engineering BLE Devices  documentation](https://reverse-engineering-ble-devices.readthedocs.io/en/latest/)
@@ -176,9 +230,23 @@ https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
 http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 
 # 无线电安全
+https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Locating-Systems.pdf
+
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+[Reverse engineering an EV charger](https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/)
+
+[I'm Building a Self-Destructing USB Drive - Interrupt Labs Blog](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
+
+https://martinschwarzl.at/media/files/thesis_main.pdf
+
+[PCIe DMA Attack against a secured Jetson Nano (CVE-2022-21819) – The Good Penguin](https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/)
+
+https://raelize.com/upload/research/2017/2017_BlueHat-v17_KERNELFAULT-R00ting-the-Unexploitable-using-Hardware-Fault-Injection_CM_NT.pdf
+
+[PS5 Hack: Keys incoming for the mysterious CP Box? - Wololo.net](https://wololo.net/2023/01/29/ps5-hack-keys-incoming-for-the-mysterious-cp-box/)
+
 [A journey into IoT – Chip identification, BUSSide, and I2C - hn security](https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/)
 
 https://mp.weixin.qq.com/s/XxzANNCKwvVmrq2eOihyTw
@@ -196,6 +264,8 @@ https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29
 https://mp.weixin.qq.com/s/G-Aas9ZFjEfUN6gj2hwusw
 
 # 模糊测试
+[How I fuzz and hack APIs?](https://rashahacks.com/how-i-fuzz-and-hack-api/)
+
 
 # 工具使用
 https://chat.openai.com/chat
@@ -249,6 +319,10 @@ https://github.com/wudipjq/my_vuln/tree/main/ARRIS
 https://github.com/Cossack9989/Vulns/tree/master/IoT
 
 # 车联网安全
+https://mp.weixin.qq.com/s/O1EfTtvmAc0e2H6DFlElYA
+
+https://mp.weixin.qq.com/s/pFf7hvan2Z9VOxGyuwIvmg
+
 [Bug in Honda, Nissan, Toyota Cars App Let Hackers Start The Car Remotely](https://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/)
 
 https://mp.weixin.qq.com/s/bx-Rtw1kkSb56iiaUpcqNQ
@@ -279,11 +353,19 @@ vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
 synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
+https://github.com/horizon3ai/CVE-2022-39952
+
+https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
+
 https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
 
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 [Hardware 其他
+https://github.com/horizon3ai/CVE-2022-39952
+
+https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
+
 https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
 
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
