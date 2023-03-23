@@ -51,6 +51,8 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[CTF导航 | 分享CTF、IOT、ICS、Car相关内容](https://www.ctfiot.com/)
+
 https://xz.aliyun.com/
 
 [unSafe.sh - 不安全](https://unsafe.sh/)
@@ -85,6 +87,26 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Vulnerability Spotlight: Netgear Orbi router vulnerable to arbitrary command execution](https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/)
+
+[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
+
+[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
+
+[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
+
+[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
+
+https://mp.weixin.qq.com/s/Hayfe1gxRl_Clk7L8DIEZg
+
+https://mp.weixin.qq.com/s/2joZwexIdVdgc5NL8W3J-A
+
+[Puckungfu: A NETGEAR WAN Command Injection – NCC Group Research](https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/)
+
+https://mp.weixin.qq.com/s/_CQ9jp6-a7wAcImjg8SouQ
+
+https://mp.weixin.qq.com/s/_CQ9jp6-a7wAcImjg8SouQ
+
 [Citrix CVE-2022-27518 漏洞分析](https://paper.seebug.org/2049/)
 
 [Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router | cq674350529's blog](https://cq674350529.github.io/2023/02/10/Analyzing-an-Old-Netatalk-dsi-writeinit-Buffer-Overflow-Vulnerability-in-NETGEAR-Router/)
@@ -201,6 +223,10 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[2020补天杯复盘：小米小爱音箱 后渗透利用公开 | Clang裁缝店](https://xuanxuanblingbling.github.io/iot/2022/09/16/mi/)
+
+[一种获取 FortiOS 权限的方法 | CataLpa's Home](https://wzt.ac.cn/2023/02/23/fortios_padding/)
+
 [Firmware key extraction by gaining EL3 - The Cave](https://blog.xilokar.info/firmware-key-extraction-by-gaining-el3.html?s=09)
 
 [ Zeus WPI | Reverse engineering an e-ink display ](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/)
@@ -230,11 +256,15 @@ https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
 http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 
 # 无线电安全
+https://mp.weixin.qq.com/s/16V1JLcLaakCcMHjzOBbRA
+
 https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Locating-Systems.pdf
 
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+https://mp.weixin.qq.com/s/TsDWgCABWGCUMVUUK3f05A
+
 [Reverse engineering an EV charger](https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/)
 
 [I'm Building a Self-Destructing USB Drive - Interrupt Labs Blog](https://interruptlabs.ca/2022/07/29/I-m-Building-a-Self-Destructing-USB-Drive/)
@@ -280,6 +310,8 @@ https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 # 会议
 ## 国内会议
 ## 国外会议
+[The DEF CON® Media Server - Archives of the conferences](https://media.defcon.org/?C=N)
+
 https://i.blackhat.com/USA-22/Thursday/US-22-Baines-Do-Not-Trust-The-ASA-Trojans.pdf
 
 https://github.com/binarly-io/Research_Publications/blob/main/OffensiveCon_2022/UEFI Firmware Vulns Past, Present and Future.pdf
@@ -319,6 +351,10 @@ https://github.com/wudipjq/my_vuln/tree/main/ARRIS
 https://github.com/Cossack9989/Vulns/tree/master/IoT
 
 # 车联网安全
+https://mp.weixin.qq.com/s/LzrqCOq6BjPC6s3SjNvXcw
+
+[Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More | Sam Curry](https://samcurry.net/web-hackers-vs-the-auto-industry/)
+
 https://mp.weixin.qq.com/s/O1EfTtvmAc0e2H6DFlElYA
 
 https://mp.weixin.qq.com/s/pFf7hvan2Z9VOxGyuwIvmg
@@ -353,6 +389,8 @@ vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
 synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
+https://media.defcon.org/DEF CON 30/DEF CON 30 presentations/Daniel (dozer) Jensen - Hunting Bugs in The Tropics V1.0.pdf
+
 https://github.com/horizon3ai/CVE-2022-39952
 
 https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
@@ -362,6 +400,8 @@ https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 [Hardware 其他
+https://media.defcon.org/DEF CON 30/DEF CON 30 presentations/Daniel (dozer) Jensen - Hunting Bugs in The Tropics V1.0.pdf
+
 https://github.com/horizon3ai/CVE-2022-39952
 
 https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
