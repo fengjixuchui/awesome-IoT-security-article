@@ -1,4 +1,4 @@
-- [introduction](#introduction)
+- [Introduction](#introduction)
 - [安全教程](#安全教程)
 - [安全论坛|博客](#安全论坛博客)
 - [漏洞分析](#漏洞分析)
@@ -30,6 +30,12 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew
+
+https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
+
+https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
+
 [About the book - A Noob's Guide To ARM Exploitation](https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/)
 
 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
@@ -87,13 +93,19 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[记一次全设备通杀未授权 RCE 的挖掘经历](https://paper.seebug.org/2071/#poc)
+
+[NETGEAR Routers: A Playground for Hackers? | NCC Group Research Blog | Making the world safer and more secure](https://research.nccgroup.com/2023/05/15/netgear-routers-a-playground-for-hackers/)
+
+[Analysis of Pre-Auth RCE in Sophos Web Appliance (CVE-2023-1671) - Blog - VulnCheck](https://vulncheck.com/blog/cve-2023-1671-analysis)
+
+[Zero Day Initiative — CVE-2022-29844: A Classic Buffer Overflow on the Western Digital My Cloud Pro Series PR4100](https://www.zerodayinitiative.com/blog/2023/4/19/cve-2022-29844-a-classic-buffer-overflow-on-the-western-digital-my-cloud-pro-series-pr4100)
+
+[奇安信攻防社区-CVE-2023-25690 Apache HTTP Server 请求走私漏洞 分析与利用](https://forum.butian.net/share/2180)
+
+[奇安信攻防社区-CVE-2023-25690 Apache HTTP Server 请求走私漏洞 分析与利用](https://forum.butian.net/share/2180)
+
 [Vulnerability Spotlight: Netgear Orbi router vulnerable to arbitrary command execution](https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/)
-
-[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
-
-[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
-
-[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 
 [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 
@@ -126,16 +138,6 @@ https://mp.weixin.qq.com/s/_CQ9jp6-a7wAcImjg8SouQ
 [CVE-2023-22374: F5 BIG-IP Format String Vulnerability | Rapid7 Blog](https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/)
 
 https://mp.weixin.qq.com/s/ie6ydNvxkFjJxmrpOTkcUA
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
 
 [CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
 
@@ -199,6 +201,18 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
+
+[chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
+
+[chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
+
+[The printer goes brrrrr, again!](https://www.synacktiv.com/publications/the-printer-goes-brrrrr-again)
+
+https://mp.weixin.qq.com/s/UwsQH9nr1D4FzK2lhy_W2A
+
+https://mp.weixin.qq.com/s/W2yAcmXh4vrE9pOh02H9Gg
+
 [IOTsec-Zoneç©èç½å®å¨ç¤¾åº](https://iotsec-zone.com/article?id=362)
 
 [CVE-2022-24942 Heap-based buffer overflow in Silicon Labs Gecko SDK](https://bugprove.com/knowledge-hub/cve-2022-24942-heap-based-buffer-overflow-in-silicon-labs-gecko-sdk/)
@@ -223,6 +237,12 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://mp.weixin.qq.com/s/BwQ7Ld7cxF9gxxnzxpp6xg
+
+[DJI Mavic 3 Drone Firmware Analysis](https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis/)
+
+https://mp.weixin.qq.com/s/RUQKvzoWPks5Y2x6Ou7jCw
+
 [2020补天杯复盘：小米小爱音箱 后渗透利用公开 | Clang裁缝店](https://xuanxuanblingbling.github.io/iot/2022/09/16/mi/)
 
 [一种获取 FortiOS 权限的方法 | CataLpa's Home](https://wzt.ac.cn/2023/02/23/fortios_padding/)
@@ -263,6 +283,8 @@ https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Loc
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+https://mp.weixin.qq.com/s/HMMa44u-FtSRPxQ1R-73jw
+
 https://mp.weixin.qq.com/s/TsDWgCABWGCUMVUUK3f05A
 
 [Reverse engineering an EV charger](https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/)
@@ -310,6 +332,8 @@ https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 # 会议
 ## 国内会议
 ## 国外会议
+[Page not found - HITBSecConf2023 - Amsterdam](https://conference.hitb.org/hitbsecconf2023ams/materials/D1T1 - Your Not So Home Office - Soho Hacking at Pwn2Own - McCaulay Hudson )
+
 [The DEF CON® Media Server - Archives of the conferences](https://media.defcon.org/?C=N)
 
 https://i.blackhat.com/USA-22/Thursday/US-22-Baines-Do-Not-Trust-The-ASA-Trojans.pdf
@@ -351,6 +375,10 @@ https://github.com/wudipjq/my_vuln/tree/main/ARRIS
 https://github.com/Cossack9989/Vulns/tree/master/IoT
 
 # 车联网安全
+[IOTsec-Zoneç©èç½å®å¨ç¤¾åº](https://iotsec-zone.com/article?id=369)
+
+[IOTsec-Zoneç©èç½å®å¨ç¤¾åº](https://iotsec-zone.com/article?id=369)
+
 https://mp.weixin.qq.com/s/LzrqCOq6BjPC6s3SjNvXcw
 
 [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More | Sam Curry](https://samcurry.net/web-hackers-vs-the-auto-industry/)
